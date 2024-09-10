@@ -33,6 +33,8 @@ Console.WriteLine(hoje.ToShortDateString());
 Console.WriteLine(hoje.ToLongTimeString());
 Console.WriteLine(hoje.ToShortTimeString());
 
+//oi
+
 //Console.WriteLine(dataAtual);
 
 //Criando uma data especifica
