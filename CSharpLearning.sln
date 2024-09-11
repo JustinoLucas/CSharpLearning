@@ -5,13 +5,15 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDados1", "TiposDados1\TiposDados1.csproj", "{AE8BACCF-7823-45E0-88C7-D8ADC7AA5338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDados2", "TiposDados2\TiposDados2.csproj", "{88EA1420-F58C-4CA0-8293-DA6B7FE80EB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDados2", "TiposDados2\TiposDados2.csproj", "{88EA1420-F58C-4CA0-8293-DA6B7FE80EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDados3", "TiposDados3\TiposDados3.csproj", "{283A6D85-D78B-49B2-BED2-FE54CD8AAB88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDados3", "TiposDados3\TiposDados3.csproj", "{283A6D85-D78B-49B2-BED2-FE54CD8AAB88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDados4", "TiposDados4\TiposDados4.csproj", "{6815546B-DB6E-4E36-BF49-D5E360366A73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDados4", "TiposDados4\TiposDados4.csproj", "{6815546B-DB6E-4E36-BF49-D5E360366A73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDateTime1", "TipoDateTime1\TipoDateTime1.csproj", "{AF4AFD7A-F235-4739-B4C5-73D02AB56F01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDateTime1", "TipoDateTime1\TipoDateTime1.csproj", "{AF4AFD7A-F235-4739-B4C5-73D02AB56F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes1", "NullableTypes1\NullableTypes1.csproj", "{FB8CAE10-29A0-4661-A5DE-1BF1905E0B49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AF4AFD7A-F235-4739-B4C5-73D02AB56F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF4AFD7A-F235-4739-B4C5-73D02AB56F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF4AFD7A-F235-4739-B4C5-73D02AB56F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8CAE10-29A0-4661-A5DE-1BF1905E0B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8CAE10-29A0-4661-A5DE-1BF1905E0B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8CAE10-29A0-4661-A5DE-1BF1905E0B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8CAE10-29A0-4661-A5DE-1BF1905E0B49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
