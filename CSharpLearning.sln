@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais1", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos1", "OperadoresLogicos1\OperadoresLogicos1.csproj", "{59991A85-4DBB-4494-B6CD-3EE001EED786}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecedenciaOperadores1", "PrecedenciaOperadores1\PrecedenciaOperadores1.csproj", "{4778699B-238C-4FE5-B068-AA4A302EC44A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{59991A85-4DBB-4494-B6CD-3EE001EED786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59991A85-4DBB-4494-B6CD-3EE001EED786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59991A85-4DBB-4494-B6CD-3EE001EED786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4778699B-238C-4FE5-B068-AA4A302EC44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4778699B-238C-4FE5-B068-AA4A302EC44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4778699B-238C-4FE5-B068-AA4A302EC44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4778699B-238C-4FE5-B068-AA4A302EC44A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,7 @@ Global
 		{E7ED0DF5-E8C5-4C33-BC79-7A84BB24442A} = {D7F53B42-8AC3-4037-9B61-1ECCDBF0F154}
 		{63D99AB0-1257-4E00-BFF0-D0AF3D4D319E} = {D7F53B42-8AC3-4037-9B61-1ECCDBF0F154}
 		{59991A85-4DBB-4494-B6CD-3EE001EED786} = {D7F53B42-8AC3-4037-9B61-1ECCDBF0F154}
+		{4778699B-238C-4FE5-B068-AA4A302EC44A} = {D7F53B42-8AC3-4037-9B61-1ECCDBF0F154}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFEB846C-3F1E-477D-823F-5B76B0570574}
